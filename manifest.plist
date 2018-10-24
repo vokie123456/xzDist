@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/vokie123456/distTest/blob/master/hippoearn.ipa?raw=true</string>
+                        <string>https://github.com/vokie123456/xzDist/blob/master/xz.ipa?raw=true</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://github.com/vokie123456/distTest/blob/master/hippo512x512.png?raw=true</string>
+                        <string>https://github.com/vokie123456/xzDist/blob/master/xz512x512.png?raw=true</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,19 +27,19 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://github.com/vokie123456/distTest/blob/master/hippo57x57.png?raw=true</string>
+                        <string>https://github.com/vokie123456/xzDist/blob/master/xz57x57.png?raw=true</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.hippo.hippoearn</string>
+                    <string>com.gzhl.xzredpacket</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>河马赚钱</string>
+                    <string>享赚红包</string>
                 </dict>
             </dict>
         </array>
