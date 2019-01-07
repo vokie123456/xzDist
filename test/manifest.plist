@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/vokie123456/xzDist/test/blob/master/xz.ipa?raw=true</string>
+                        <string>https://github.com/vokie123456/xzDist/blob/master/test/xz.ipa?raw=true</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://github.com/vokie123456/xzDist/test/blob/master/xz512x512.png?raw=true</string>
+                        <string>https://github.com/vokie123456/xzDist/blob/master/test/xz512x512.png?raw=true</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://github.com/vokie123456/xzDist/test/blob/master/xz57x57.png?raw=true</string>
+                        <string>https://github.com/vokie123456/xzDist/blob/master/test/xz57x57.png?raw=true</string>
                     </dict>
                 </array>
                 <key>metadata</key>
